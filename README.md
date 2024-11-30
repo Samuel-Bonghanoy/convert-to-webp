@@ -16,4 +16,6 @@ bun install
 bun run index.ts
 ```
 
-3.) Once the program is finished running, all converted images will be stored in the `output` folder
+3.) Once the program is finished running, all converted images will be stored in the `/output` folder
+
+4.) Profit
