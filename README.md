@@ -1,5 +1,7 @@
 # image-compressor
 
+Simple Bun application to convert `.jpg` or `.png` images into `.webp`
+
 To install dependencies:
 
 ```bash
