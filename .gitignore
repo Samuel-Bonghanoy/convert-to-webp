@@ -177,3 +177,7 @@ dist
 # Custom
 images/*
 output/*
+
+# Allow test.jpg in images/ and output/
+!images/test.jpg
+!output/test.webp
