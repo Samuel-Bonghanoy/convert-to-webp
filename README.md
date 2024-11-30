@@ -1,4 +1,4 @@
-# image-compressor
+# convert-to-webp
 
 Simple Bun application to convert `.jpg` or `.png` images into `.webp`
 
